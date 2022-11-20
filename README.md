@@ -26,7 +26,7 @@ I'm a Backend Developer at <a href="https://xieffect.ru/">xi.effect</a>
 
 
 
-### 👨🏻‍💻 My Stats
+## 👨🏻‍💻 My Stats
 <span>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=porebrikk&show_icons=true&count_private=true&theme=dark" />
@@ -36,7 +36,7 @@ I'm a Backend Developer at <a href="https://xieffect.ru/">xi.effect</a>
 
 
 
-#### Contacts :coffee:
+### Contacts :coffee:
 
 <div>
 
