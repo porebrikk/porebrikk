@@ -16,6 +16,7 @@ I'm a Backend Developer at <a href="https://xieffect.ru/">xi.effect</a>
 <a href="https://flask-restx.readthedocs.io/en/latest/" target="_blank"> <img src="https://flask-restx.readthedocs.io/en/latest/_static/logo-512.png" width="50" height="50"/></a>
 <a href="https://socket.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="50" height="50"/></a>
 
+
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" width="80" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" width="50" height="50"/></a>
 <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png" width="50" height="50"/></a>
@@ -23,10 +24,22 @@ I'm a Backend Developer at <a href="https://xieffect.ru/">xi.effect</a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="50" height="50"/></a>
 <a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" width="50" height="50"/></a>
 
-## 👨🏻‍💻 My Stats
+
+
+### 👨🏻‍💻 My Stats
 <span>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=porebrikk&show_icons=true&count_private=true&theme=dark" />
   </a>
 </span> 
 <span> </span>
+
+
+
+#### Contacts :coffee:
+
+<div>
+
+<a target="_blank"  href="https://www.instagram.com/porebrikk/"><img  src="https://img.icons8.com/doodle/512/instagram-new.png"  alt="Instagram" width="50" height="50"/></a><a target="_blank"  href="https://t.me/porebrikk"><img src="https://img.icons8.com/doodle/512/telegram-app.png" alt="Telegram" width="53" height="53"/></a><a target="_blank"  href="https://career.habr.com/porebrikk"><img src="https://lh3.googleusercontent.com/edRRbGyqUkIfoeCNmeNl8HXz5evJFSzgDjfRBrjDVLF2WIL-CCNXAAkjHByPiGAwjiSW" alt="Habr" width="50" height="50"/></a>
+
+</div>
