@@ -18,7 +18,8 @@ I'm a Backend Developer at <a href="https://xieffect.ru/">xi.effect</a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=262321&logo=Git&logoColor=F05032&label=" alt="Git"></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=262321&logo=Postman&logoColor=FF6C37&label=" alt="Postman"></a>
 <a href="https://docs.pytest.org/en/7.2.x/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=262321&logo=Pytest&logoColor=0A9EDC&label=" alt="Pytest"></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&message=Pytest&color=262321&logo=docker&logoColor=0A9EDC&label=" alt="Docker"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&message=Docker&color=262321&logo=docker&logoColor=0A9EDC&label=" alt="Docker"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&message=Docker&color=262321&logo=FastAPI&logoColor=009688&label=" alt="FastAPI"></a>
 
 
 
