@@ -5,10 +5,6 @@
 
 
 
-I'm a Backend Developer at <a href="https://xieffect.ru/">xi.effect</a>
-
-
-
 ## 💻 My Stack
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=262321&logo=Python&logoColor=3776AB&label=" alt="Python"></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=262321&logo=Flask&logoColor=FFFFFF&label=" alt="Flask"></a>
